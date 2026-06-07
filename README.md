@@ -24,5 +24,5 @@ TECHNOLOGIES TOOLS USED
 
  REPOSITORY LINK
  
-https://github.com/King136-sudo/PharmacySystem
+https://github.com/King136-sudo/PharmacySystem/
 
