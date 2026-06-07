@@ -3,6 +3,7 @@ PHARMACY SYSTEM MANAGEMENT
 students information 
 
 Name: Salimu Nelson Sichalwe 
+Reg No: 14323042/T.24
 Programme: Bachelor of Science in Information and Communication Technology  with Business (BSc. ICT-B II)
 Institution: Mzumbe University of Morogoro 
 
