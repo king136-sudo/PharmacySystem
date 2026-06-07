@@ -12,9 +12,13 @@ This project is a simple website is Pharmacy Management System developed using H
 
 FEATURES OF THIS WEBSITE 
 1.Medicine Management
+
 2.User-Friendly Interface
+
 3.Responsive Design
+
 4.Simple Navigation
+
 5.Pharmacy Information Management
 
 TECHNOLOGIES TOOLS USED
